@@ -6,7 +6,7 @@ import schema from "./validation/validation";
 import "./App.css";
 
 // Components
-import Home from "./components/Home/Home";
+import Home from "./components/Home/Home1";
 import Form from "./components/Form/Form";
 import OrderConfirmed from "./components/OrderConfirmed/OrderConfirmed";
 
